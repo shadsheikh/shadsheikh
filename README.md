@@ -33,23 +33,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  <img align="left" alt="Shad's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shad-Sheikh&show_icons=true&hide_border=true" />
 </details>
 
 [instagram]: https://www.instagram.com/s.h.a.d_s.h.e.i.k.h?r=nametag
 [linkedin]: https://www.linkedin.com/in/shad-sheikh-48b2951aa
-
-
-
-
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
