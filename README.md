@@ -33,9 +33,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Shad's GitHub Stats" src="https://github-readme-stats.shad.vercel.app/api?username=Shad-Sheikhr&show_icons=true&hide_border=true" />
-
+(https://github-readme-stats.vercel.app/api?username=Shad-Sheikh)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [instagram]: https://www.instagram.com/s.h.a.d_s.h.e.i.k.h?r=nametag
