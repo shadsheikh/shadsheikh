@@ -33,7 +33,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-(https://github-readme-stats.vercel.app/api?username=Shad-Sheikh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [instagram]: https://www.instagram.com/s.h.a.d_s.h.e.i.k.h?r=nametag
