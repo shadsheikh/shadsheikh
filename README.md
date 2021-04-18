@@ -5,7 +5,8 @@
 - 🔭 I just launched my new C programing repository : [C-Programs][Repo]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learning more programming language
-- ⚡ Fun fact: I love to photo and video editing and play with Mathematics 
+- ⚡ Fun fact: I love to photo and video editing and play with Mathematics
+- 💻 Portfolio: Visit my portfolio (https://shad-sheikh.herokuapp.com/)
 
 ### Connect with me:
 
@@ -22,6 +23,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/python.png" />
 <br />
 <br />
 
@@ -29,7 +31,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-🎉 New-Repository [C-Programs](https://github.com/Shad-Sheikh/C-Programs)
+🎉 New-Repository [HackerRank-C](https://github.com/Shad-Sheikh/HackerRank-C)
+🎉 New-Repository [HackerRank-CPP](https://github.com/Shad-Sheikh/HackerRank-CPP)
+🎉 New-Repository [HackerRank-Java](https://github.com/Shad-Sheikh/HackerRank-Java)
+🎉 New-Repository [HackerRank-Python](https://github.com/Shad-Sheikh/HackerRank-Python)
 <!--END_SECTION:activity-->
 
 </details>
