@@ -44,7 +44,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="Shad's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shad-Sheikh&show_icons=true&hide_border=true" />
+ <img align="left" alt="Shad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shad-Sheikh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22%20alt=%22ABSphreak%27s%20Github%20Stats%22" />
 </details>
 
 [instagram]: https://www.instagram.com/s.h.a.d_s.h.e.i.k.h?r=nametag
