@@ -15,15 +15,15 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/SS_1.png">
 </a>
 
-- 🔭 &nbsp; I’m currently learning **Flutter Application Development**
+- 🔭 I’m currently learning **Flutter Application Development**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- 🎓 &nbsp; Pursuing BTech in **IT**.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in **Python 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**.
+- 🎓 Pursuing BTech in **IT**.
+- 💼 Android developer and front-end web developer.
+- 🌱 Enthusiast in **Python 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**.
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I’m currently learning everything**
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -118,8 +118,7 @@
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
-#
-
+<!--
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
@@ -131,8 +130,9 @@
 
 <br>
 <br>
-
+-->
 <!--START_SECTION:waka-->
+<!--
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697670%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
@@ -213,9 +213,12 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 ⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
 
 
+
  Last Updated on 23/06/2021
+-->
 <!--END_SECTION:waka-->
 
+<!--
 <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
@@ -224,7 +227,7 @@ Kotlin                   7 repos             █░░░░░░░░░░�
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
   </a>
 </p>
-
+-->
 #
 
 <p align="center">
@@ -243,10 +246,17 @@ svg coding
 </p>
 -->
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>⚡ Recent GitHub Activity</strong>
+</summary>
+<br>
+
+<p align="center">
   
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Python&theme=material-palenight" alt="Anurag's github stats" />
 </a>
@@ -263,17 +273,29 @@ svg coding
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-C&theme=material-palenight" />
 </a>
-<!--START_SECTION:activity-->
+
+ </p> 
+</details>
+<br>
+
+
+
+
+
+
+
+
+ <!--
+ <details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
 <!--1. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 2. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 3. 🎉 Merged PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/jct-discord-bot/issues/42) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 5. 💪 Opened PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
--->
-<!--END_SECTION:activity-->
-
 </details>
-
+-->
 <h1>
   Connect With Me
   <a target="_blank">
@@ -326,8 +348,6 @@ svg coding
 
 <br/>
 <br/>
-
-#
 
 -----
 <div align="center">
