@@ -222,7 +222,7 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <a href='https://github.com/Shad-Sheikh>
+  <a href="https://github.com/Shad-Sheikh>
     <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
@@ -250,7 +250,7 @@ Kotlin                   7 repos             █░░░░░░░░░░�
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/shadsheikh">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shad DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
