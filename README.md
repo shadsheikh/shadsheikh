@@ -15,12 +15,25 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/SS_1.png">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Android 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Python 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
+- 🔭 &nbsp; I’m currently learning **Flutter Application Development**
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+- 🎓 &nbsp; Pursuing BTech in **IT**.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in **Python 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**.
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I’m currently learning everything**
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Dart | Java | C++ | C | CSS | JavaScript 
+- 🌐 &nbsp; Android | flutter
+- 🛢 &nbsp; MySQL | Firebase 
+- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Illustrator | Adobe Photoshop | Adobe After Effect | Adobe Premiere Pro
+
 <br/>
 <br/>
 
@@ -52,12 +65,12 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/android-os.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/python.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/c-plus-plus.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/copyright.png"></code>
 <!--<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -69,9 +82,9 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"></code>
 <!--
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
@@ -197,7 +210,7 @@ JavaScript               9 repos             ██░░░░░░░░░�
 Kotlin                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
 
 ```
-
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
 
 
  Last Updated on 23/06/2021
@@ -220,13 +233,47 @@ Kotlin                   7 repos             █░░░░░░░░░░�
   </a>
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
-
+<!--
+svg coding
 <p align="center">
   <a href='https://github.com/JayantGoel001/'>
     <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
     <img src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/matric_details.svg" width="75%"/>
   </a>
 </p>
+-->
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/jct-discord-bot/issues/42) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 💪 Opened PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+<!--END_SECTION:activity-->
+
+</details>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Java&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Java&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Java&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Java&theme=material-palenight" />
+</a>
 
 
 <h1>
@@ -239,20 +286,25 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/shad-sheikh-48b2951aa/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/linkedin.png"/></code>
   </a>
   <a href="https://www.linkedin.com/in/shad-sheikh-48b2951aa/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="https://img.icons8.com/nolan/64/facebook.png"/></code>
   </a>
   <a href="https://www.instagram.com/shadsheikh_/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/instagram-new.png"/></code>
   </a>
   <a href="https://www.instagram.com/shadsheikh_/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/twitter.png"/></code>
   </a>
   <a href="https://dev.to/shadsheikh">
+    <code><img src="https://img.icons8.com/nolan/64/web.png" alt="Shad DEV Profile" height="62" width="62"></code>
+  </a>
+<!--  </a>
+  <a href="https://dev.to/shadsheikh">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shad DEV Profile" height="62" width="62"></code>
-  </a>     
+  </a> 
+  -->
 </p>
 <br/>
 
