@@ -222,11 +222,12 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shad-Sheikh>
+  <a href='https://github.com/JayantGoel001/'>
     <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
 </p>
+
 
 <h1>
   Connect With Me
@@ -276,12 +277,11 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 <br/>
 <br/>
 
+#
+
+-----
 <div align="center">
 
 ### Thank You ❤️
 
 </div>
-
-#
-
------
