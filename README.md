@@ -257,15 +257,15 @@ svg coding
 <p align="center">
   
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Shad-Sheikh/HackerRank-PYTHON">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Python&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Shad-Sheikh/HackerRank-JAVA">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Java&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Shad-Sheikh/HackerRank-CPP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-CPP&theme=material-palenight" />
 </a>    
