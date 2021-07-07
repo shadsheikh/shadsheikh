@@ -330,7 +330,7 @@ svg coding
 
 <p align="center">
   <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/hackerrank_logo.svg"/></code>
   </a>
 
   <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
