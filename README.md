@@ -342,7 +342,7 @@ svg coding
   </a>
 
   <a href="https://www.codechef.com/users/shad_sheikh" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/ce4fd2180646452aa0b03c3ffa3ef8e2.png"/></code>
   </a>
 </p>
 
