@@ -307,20 +307,20 @@ svg coding
   <br>
   <a href="https://www.linkedin.com/in/shad-sheikh-48b2951aa/" target="_blank">
     <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/linkedin.png"/></code>
+  <a href="https://www.instagram.com/shadsheikh_/" target="_blank">
+    <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/instagram-new.png"/></code>
+  </a>
+  <a href="https://twitter.com/ShadSheikh_?s=08" target="_blank">
+    <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/twitter.png"/></code>
+  </a>
+  <a href="https://shad-portfolio.herokuapp.com/ ">
+    <code><img src="https://img.icons8.com/nolan/64/web.png" alt="Shad DEV Profile" height="62" width="62"></code>
+  </a>
+<!--  </a>
   </a>
   <a href="https://www.linkedin.com/in/shad-sheikh-48b2951aa/" target="_blank">
     <code><img  height="60" width="60" src="https://img.icons8.com/nolan/64/facebook.png"/></code>
   </a>
-  <a href="https://www.instagram.com/shadsheikh_/" target="_blank">
-    <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/instagram-new.png"/></code>
-  </a>
-  <a href="https://www.instagram.com/shadsheikh_/" target="_blank">
-    <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/twitter.png"/></code>
-  </a>
-  <a href="https://dev.to/shadsheikh">
-    <code><img src="https://img.icons8.com/nolan/64/web.png" alt="Shad DEV Profile" height="62" width="62"></code>
-  </a>
-<!--  </a>
   <a href="https://dev.to/shadsheikh">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shad DEV Profile" height="62" width="62"></code>
   </a> 
