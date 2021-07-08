@@ -81,7 +81,7 @@
 <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/github.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/google-scholar.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"></code>
 <!--
