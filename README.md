@@ -330,19 +330,19 @@ svg coding
 
 <p align="center">
   <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/hackerrank_logo.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/HackerRank_logo_Artboard%204.png"/></code>
   </a>
 
   <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/codeforce.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/CodeForces_logo_Artboard%203.png"/></code>
   </a>
 
   <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/HackerEarth_logo.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/HackerEarth_logo.png"/></code>
   </a>
 
   <a href="https://www.codechef.com/users/shad_sheikh" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/ce4fd2180646452aa0b03c3ffa3ef8e2.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/CodeChef_logo.png"/></code>
   </a>
 </p>
 
