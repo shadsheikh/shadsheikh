@@ -334,11 +334,11 @@ svg coding
   </a>
 
   <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/cf.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/codeforce.png"/></code>
   </a>
 
   <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/HackerEarth_logo.png"/></code>
   </a>
 
   <a href="https://www.codechef.com/users/shad_sheikh" target="_blank">
