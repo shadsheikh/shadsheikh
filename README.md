@@ -326,6 +326,10 @@ svg coding
   <a href="https://www.codechef.com/users/shad_sheikh" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/CodeChef_logo.png"/></code>
   </a>
+  
+  <a href="https://leetcode.com/shasheikh/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/leetcode_logo.png"/></code>
+  </a>
 </p>
 
 <br/>
