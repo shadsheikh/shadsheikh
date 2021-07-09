@@ -8,9 +8,8 @@
   </a>
 </h1>
 
+<br/>
 
-<br/>
-<br/>
 <a target="_blank">
   <img align="right" height="250" width="250" alt="LOGO" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/SS_1.png">
 </a>
@@ -36,11 +35,10 @@
 </p>
 
 <br/>
-<br/>
-<br/>                                                             
+<br/>                                                         
 
 <h1 align="center">
-  𝙻anguages and 𝚃ools
+  𝙻anguages and 𝚃ools 💻
 </h1>
 
 <a target="_blank"><img align="left" height="200" width="200" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
@@ -71,7 +69,6 @@
   </a>
 </p>                                                            
 
-<br/>
 <br/>
 <br/>
 
@@ -215,7 +212,6 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 </p>
 -->
 
-<br/>
 <br/>
 <br/>
 
