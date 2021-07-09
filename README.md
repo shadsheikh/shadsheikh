@@ -12,7 +12,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/SS_1.png">
+  <img align="right" height="250" width="250" alt="LOGO" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/SS_1.png">
 </a>
 
 - 🔭 I’m currently learning **Flutter Application Development**
@@ -25,28 +25,6 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I’m currently learning everything**
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Dart | Java | C++ | C | CSS | JavaScript 
-- 🌐 &nbsp; Android | flutter
-- 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Illustrator | Adobe Photoshop | Adobe After Effect | Adobe Premiere Pro
-
-<br/>
-<br/>
-
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/Shad-Sheikh" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Shad-Sheikh&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Shad-Sheikh?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Shad-Sheikh?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
-#
-
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Shad-Sheikh&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Shad-Sheikh)
 
 <p align="center">
@@ -57,48 +35,56 @@
   </a>
 </p>
 
-#
+<br/>
+<br/>
+<br/>                                                             
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
+<h1 align="center">
+  𝙻anguages and 𝚃ools
+</h1>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/android-os.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/python.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/c-plus-plus.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/copyright.png"></code>
-<!--<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>-->
-<!--<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
--->
-#
-<code><img height="40" width="40" src= "https://img.icons8.com/nolan/64/git.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/github.png"></code>
-<code><img height="40" width="40" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/FireBase_logo.png"></code>
-<code><img height="40" width="40" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/Jupyter_logo.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/google-scholar.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"></code>
-<!--
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
--->
-<br/>
+<a target="_blank"><img align="left" height="200" width="200" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="right" height="200" width="200" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+
+<p align="center">
+  <a>
+    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/android-os.png"></code>
+    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code>
+    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/python.png"></code>
+    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/c-plus-plus.png"></code>
+    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/copyright.png"></code>
+  </a>
+</p>
 
 #
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
+<p align="center">
+  <a>    
+    <code><img height="40" width="40" src= "https://img.icons8.com/nolan/64/git.png"></code>
+    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/github.png"></code>
+    <code><img height="40" width="40" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/FireBase_logo.png"></code>
+    <code><img height="40" width="40" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/Jupyter_logo.png"></code>
+    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/google-scholar.png"></code>
+    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"></code>
+    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"></code>
+    <code><img height="40" width="40" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/Android_logo_Artboard%207.png"></code>
+  </a>
+</p>                                                            
+
+<br/>
+<br/>
+<br/>
+
+<h1 align="center">
+  Git Status 📈
+</h1>
+  
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Shad-Sheikh" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Shad-Sheikh&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Shad-Sheikh?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Shad-Sheikh?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
 <p align="center">
   <a href="https://github.com/JayantGoel001">
@@ -228,14 +214,19 @@ Kotlin                   7 repos             █░░░░░░░░░░�
   </a>
 </p>
 -->
-#
+
+<br/>
+<br/>
+<br/>
 
 <p align="center">
   <a href="https://github.com/Shad-Sheikh">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
+<h1 align="center">
+  𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 📊
+</h1>
 <!--
 svg coding
 <p align="center">
@@ -245,7 +236,6 @@ svg coding
   </a>
 </p>
 -->
-
 
 <details open="">
 <summary>
@@ -296,10 +286,15 @@ svg coding
 5. 💪 Opened PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 </details>
 -->
-<h1>
+
+<br/>
+<br/>
+<br/>                                                                    
+
+<h1 align="center">
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="40px" />
   </a>
 </h1>
 
@@ -314,17 +309,8 @@ svg coding
     <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/twitter.png"/></code>
   </a>
   <a href="https://shad-portfolio.herokuapp.com/ ">
-    <code><img src="https://img.icons8.com/nolan/64/web.png" alt="Shad DEV Profile" height="62" width="62"></code>
+    <code><img height="60" width="60" src="https://img.icons8.com/nolan/64/web.png"/></code>
   </a>
-<!--  </a>
-  </a>
-  <a href="https://www.linkedin.com/in/shad-sheikh-48b2951aa/" target="_blank">
-    <code><img  height="60" width="60" src="https://img.icons8.com/nolan/64/facebook.png"/></code>
-  </a>
-  <a href="https://dev.to/shadsheikh">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shad DEV Profile" height="62" width="62"></code>
-  </a> 
-  -->
 </p>
 <br/>
 
