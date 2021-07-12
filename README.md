@@ -315,11 +315,11 @@ svg coding
     <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/HackerRank_logo_Artboard%204.png"/></code>
   </a>
 
-  <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
+  <a href="https://codeforces.com/profile/shadsheikh" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/CodeForces_logo_Artboard%203.png"/></code>
   </a>
 
-  <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
+  <a href="http://www.hackerearth.com/@shadsheikh" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/HackerEarth_logo.png"/></code>
   </a>
 
