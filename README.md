@@ -304,7 +304,7 @@ svg coding
   <a href="https://twitter.com/ShadSheikh_?s=08" target="_blank">
     <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/twitter.png"/></code>
   </a>
-  <a href="https://shad-portfolio.herokuapp.com/ ">
+  <a href="https://shad-sheikh.herokuapp.com/">
     <code><img height="60" width="60" src="https://img.icons8.com/nolan/64/web.png"/></code>
   </a>
 </p>
