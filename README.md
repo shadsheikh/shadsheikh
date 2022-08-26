@@ -216,7 +216,7 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Shad-Sheikh">
+  <a href="https://github.com/shadsheikh">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
 </p>
@@ -243,19 +243,19 @@ svg coding
 <p align="center">
   
 
-<a href="https://github.com/Shad-Sheikh/HackerRank-PYTHON">
+<a href="https://github.com/shadsheikh/HackerRank-PYTHON">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Python&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/Shad-Sheikh/HackerRank-JAVA">
+<a href="https://github.com/shadsheikh/HackerRank-JAVA">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Java&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/Shad-Sheikh/HackerRank-CPP">
+<a href="https://github.com/shadsheikh/HackerRank-CPP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-CPP&theme=material-palenight" />
 </a>    
-<a href="https://github.com/Shad-Sheikh/HackerRank-C">
+<a href="https://github.com/shadsheikh/HackerRank-C">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-C&theme=material-palenight" />
 </a>
@@ -296,12 +296,12 @@ svg coding
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/shad-sheikh-48b2951aa/" target="_blank">
+  <a href="https://www.linkedin.com/in/shadsheikh/" target="_blank">
     <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/linkedin.png"/></code>
   <a href="https://www.instagram.com/shadsheikh_/" target="_blank">
     <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/instagram-new.png"/></code>
   </a>
-  <a href="https://twitter.com/ShadSheikh_?s=08" target="_blank">
+  <a href="https://twitter.com/shadsheikh_?s=08" target="_blank">
     <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/twitter.png"/></code>
   </a>
   <a href="https://shad-sheikh.herokuapp.com/">
@@ -311,7 +311,7 @@ svg coding
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/shadsheikh3107" target="_blank">
+  <a href="https://www.hackerrank.com/shadsheikh" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/HackerRank_logo_Artboard%204.png"/></code>
   </a>
 
@@ -323,7 +323,7 @@ svg coding
     <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/HackerEarth_logo.png"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/shad_sheikh" target="_blank">
+  <a href="https://www.codechef.com/users/shadsheikh" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/CodeChef_logo.png"/></code>
   </a>
   
