@@ -239,21 +239,21 @@ svg coding
 <p align="center">
   
 
-<a href="https://github.com/shadsheikh/HackerRank-PYTHON">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/blob/master/README.md&repo=HackerRank-Python&theme=material-palenight" alt="Anurag's github stats" />
+<a href="https://github.com/shadsheikh/Charity-Nest">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=Charity-Nest&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/shadsheikh/HackerRank-JAVA">
+<a href="https://github.com/shadsheikh/JobIn">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/blob/master/README.md&repo=HackerRank-Java&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=JobIn&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/shadsheikh/HackerRank-CPP">
+<a href="https://github.com/shadsheikh/Dijipol">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/master/README.md&repo=HackerRank-CPP&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=Dijipol&theme=material-palenight" />
 </a>    
-<a href="https://github.com/shadsheikh/HackerRank-C">
+<a href="https://github.com/shadsheikh/Acente">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/blob/master/README.md&repo=HackerRank-C&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=Acente&theme=material-palenight" />
 </a>
 
  </p> 
