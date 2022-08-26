@@ -240,20 +240,20 @@ svg coding
   
 
 <a href="https://github.com/shadsheikh/HackerRank-PYTHON">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/Shad-Sheikh/blob/master/README.md&repo=HackerRank-Python&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/blob/master/README.md&repo=HackerRank-Python&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/shadsheikh/HackerRank-JAVA">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/Shad-Sheikh/blob/master/README.md&repo=HackerRank-Java&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/blob/master/README.md&repo=HackerRank-Java&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/shadsheikh/HackerRank-CPP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/Shad-Sheikh/blob/master/README.md&repo=HackerRank-CPP&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/master/README.md&repo=HackerRank-CPP&theme=material-palenight" />
 </a>    
 <a href="https://github.com/shadsheikh/HackerRank-C">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/Shad-Sheikh/blob/master/README.md&repo=HackerRank-C&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/blob/master/README.md&repo=HackerRank-C&theme=material-palenight" />
 </a>
 
  </p> 
@@ -323,7 +323,7 @@ svg coding
     <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/CodeChef_logo.png"/></code>
   </a>
   
-  <a href="https://leetcode.com/shasheikh/" target="_blank">
+  <a href="https://leetcode.com/shadsheikh/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/leetcode_logo.png"/></code>
   </a>
 </p>
