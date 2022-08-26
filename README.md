@@ -24,13 +24,9 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I’m currently learning everything**
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Shad-Sheikh&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/shadsheikh)
-
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadsheikh&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
 
@@ -244,20 +240,20 @@ svg coding
   
 
 <a href="https://github.com/shadsheikh/HackerRank-PYTHON">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Python&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/Shad-Sheikh/blob/master/README.md&repo=HackerRank-Python&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/shadsheikh/HackerRank-JAVA">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-Java&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/Shad-Sheikh/blob/master/README.md&repo=HackerRank-Java&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/shadsheikh/HackerRank-CPP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-CPP&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/Shad-Sheikh/blob/master/README.md&repo=HackerRank-CPP&theme=material-palenight" />
 </a>    
 <a href="https://github.com/shadsheikh/HackerRank-C">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Shad-Sheikh&repo=HackerRank-C&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=https://github.com/shadsheikh/Shad-Sheikh/blob/master/README.md&repo=HackerRank-C&theme=material-palenight" />
 </a>
 
  </p> 
