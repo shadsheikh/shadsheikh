@@ -222,15 +222,15 @@ svg coding
 <p align="center">
   
 
-<a href="https://github.com/shadsheikh/Charity-Nest">
+<a href="https://github.com/shadsheikh/pizzalicious">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=pizzalicious&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/shadsheikh/JobIn">
+<a href="https://github.com/shadsheikh/movierack">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=movierack&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/shadsheikh/Dijipol">
+<a href="https://github.com/shadsheikh/Android-Study-Jams">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=Android-Study-Jams&theme=material-palenight" />
 </a>    
