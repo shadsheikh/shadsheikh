@@ -14,16 +14,15 @@
   <img align="right" height="250" width="250" alt="LOGO" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/SS_1.png">
 </a>
 
-- 🔭 I’m currently learning **Flutter Application Development**
+- 🔭 I’m software engineer
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- 🎓 Pursuing BTech in **IT**.
-- 💼 Android developer and front-end web developer.
-- 🌱 Enthusiast in **Flutter 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**.
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Flutter 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
+- 🎓 BTech in **IT**.
+- 💼 Meta Certified Full-Stack Software Engineer
+- 🌱 AWS Certified Solutions Architect
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I’m currently learning everything**
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-
+<br/>
+<br/>
 <p align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadsheikh&theme=dark&hide_border=true"/>
@@ -37,33 +36,23 @@
   𝙻anguages and 𝚃ools 💻
 </h1>
 
-<a target="_blank"><img align="left" height="200" width="200" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<a target="_blank"><img align="right" height="200" width="200" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-
 <p align="center">
   <a>
-    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/android-os.png"></code>
-    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code>
-    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/python.png"></code>
-    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/c-plus-plus.png"></code>
-    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/copyright.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/aws.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/reactjs.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/redux.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/express.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/nodejs.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/django.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/docker.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/tailwind.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/threejs.svg"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/mongodb.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/html.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/css.png"></code>
+    <code><img height="40" width="40" src="https://github.com/shadsheikh/shadsheikh/blob/master/Files/Logo/git.png"></code>
   </a>
-</p>
-
-#
-
-<p align="center">
-  <a>    
-    <code><img height="40" width="40" src= "https://img.icons8.com/nolan/64/git.png"></code>
-    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/github.png"></code>
-    <code><img height="40" width="40" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/FireBase_logo.png"></code>
-    <code><img height="40" width="40" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/Jupyter_logo.png"></code>
-    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/google-scholar.png"></code>
-    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"></code>
-    <code><img height="40" width="40" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"></code>
-    <code><img height="40" width="40" src="https://github.com/Shad-Sheikh/Shad-Sheikh/blob/master/Files/Logo/Android_logo_Artboard%207.png"></code>
-  </a>
-</p>                                                            
+</p>                                              
 
 <br/>
 <br/>
@@ -73,24 +62,18 @@
 </h1>
   
 <p align="center">
-  <img src="https://gpvc.arturio.dev/shadsheikh" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=shadsheikh&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shadsheikh?label=Followers&style=social"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shadsheikh?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/shadsheikh?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 <p align="center">
-  <a href="https://github.com/shadsheikh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadsheikh&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
+  
   <a href="https://github.com/JayantGoel001">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadsheikh&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
 <br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shadsheikh&theme=react-dark&hide_border=true&area=true)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 <!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)-->
@@ -240,16 +223,16 @@ svg coding
   
 
 <a href="https://github.com/shadsheikh/Charity-Nest">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=Charity-Nest&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=pizzalicious&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/shadsheikh/JobIn">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=JobIn&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=movierack&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/shadsheikh/Dijipol">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=Dijipol&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=shadsheikh&repo=Android-Study-Jams&theme=material-palenight" />
 </a>    
 <a href="https://github.com/shadsheikh/Acente">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -300,7 +283,7 @@ svg coding
   <a href="https://twitter.com/shadsheikh_?s=08" target="_blank">
     <code><img height="60" width="60" src="https://img.icons8.com/nolan/96/twitter.png"/></code>
   </a>
-  <a href="https://shad-sheikh.herokuapp.com/">
+  <a href="https://shadsheikh.me/">
     <code><img height="60" width="60" src="https://img.icons8.com/nolan/64/web.png"/></code>
   </a>
 </p>
